@@ -1,4 +1,5 @@
 📊 Business Sales Performance Dashboard
+
 📌 Project Overview
 This project focuses on building an interactive Business Intelligence dashboard that combines Sales Performance and Customer Analysis to help organizations monitor revenue, customer behavior, and overall business growth.
 The dashboard provides a 360-degree view of the business, enabling stakeholders to make data-driven decisions efficiently.
